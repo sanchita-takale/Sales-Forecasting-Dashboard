@@ -130,7 +130,7 @@ Supermarket-Sales-Forecasting/
 │
 ├── Data/
 ├── SuperStore_Dashboard.pbix
-├── Screensots/
+├── Screenshots/
 └── README.md
 ```
 
